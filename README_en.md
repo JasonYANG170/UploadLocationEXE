@@ -1,28 +1,28 @@
 [简体中文](README.md) | [English](README_en.md)
 
 <div align="center">
-    <h1>UploadLocationEXE后台位置上传</h1>
+    <h1>UploadLocationEXE background location upload </h1>
     <img src="https://img.shields.io/github/license/JasonYANG170/UploadLocationEXE?label=License&style=for-the-badge">
     <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/UploadLocationEXE?style=for-the-badge">
 <img src="https://img.shields.io/github/languages/count/JasonYANG170/UploadLocationEXE?logo=python&style=for-the-badge">
 <img src="https://github.com/JasonYANG170/UploadLocationEXE/assets/39414350/7400a5d2-1031-4e31-b189-4cbfa2df51e6">
 	
-这是一项基于MFC的上传电脑位置的定位找回软件
+This is a location retrieval software based on MFC for uploading computer locations.
 
 <br>
 
 </div>
 
-## 🚧本项目已暂停维护  
-## 支持平台
+## 🚧Maintenance is currently paused
+## Support platform
 **Windows**
 
-## 功能
-- ✅ 开机自动上传IP位置
-- ✅ 支持隐藏模式
-- ✅ 支持伪装模式
-- ✅ 支持开机自启动
-- ✅ 支持邮箱通知
+## Features
+- ✅ Automatically upload IP location upon startup
+- ✅Support hidden mode
+- ✅Supports disguise mode
+- ✅Supports auto-start at boot
+- ✅Support email notification
 
 
 
