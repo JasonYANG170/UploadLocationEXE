@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/github/license/JasonYANG170/UploadLocationEXE?label=License&style=for-the-badge">
     <img src="https://img.shields.io/github/commit-activity/w/JasonYANG170/UploadLocationEXE?style=for-the-badge">
 <img src="https://img.shields.io/github/languages/count/JasonYANG170/UploadLocationEXE?logo=python&style=for-the-badge">
-<img src="https://github.com/JasonYANG170/UploadLocationEXE/assets/39414350/7400a5d2-1031-4e31-b189-4cbfa2df51e6">
+<img src="docs/images/project-overview.jpg" alt="项目概览">
 	
 这是一项基于MFC的上传电脑位置的定位找回软件
 
